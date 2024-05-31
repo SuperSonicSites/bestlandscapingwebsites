@@ -89,7 +89,8 @@ To your continued success.
 
 Cheers!
 
-PS: Subscribe For More!s
+PS: Subscribe For More!
+
 {{< css.inline >}}
 
 <style>
