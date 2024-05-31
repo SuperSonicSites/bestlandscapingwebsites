@@ -1,6 +1,6 @@
 +++
 author = "Renaud Gagné"
-title = "3 Things Most Landscaping Websites Are Missing"
+title = "3 Critical Features Missing from Most Landscaping Websites"
 date = "2024-05-31"
 description = "Discover 3 things most landscaping websites are missing and what you can do to stand above the competition."
 tags = [
@@ -89,7 +89,7 @@ To your continued success.
 
 Cheers!
 
-
+PS: Subscribe For More!s
 {{< css.inline >}}
 
 <style>
