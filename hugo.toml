@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "The Best Landscaping Websites"
+title = "Best Landscaping Websites"
 author = "Renaud Gagné"
 copyright = "Copyright © 2024, Supersonic sites; all rights reserved."
 paginate = 3
@@ -16,9 +16,9 @@ theme = "paper"
 [params]
   color = 'linen'
 
-  twitter = 'bestlandscapingwebsites'
-  github = 'bestlandscapingwebsites'
-  instagram = 'bestlandscapingwebsites'
+  twitter = 'SupersonicSites'
+  facebook = 'SupersonicSites'
+  instagram = 'Supersonic_Sites'
 
   avatar = 'renaud@supersonicsites.com'
   name = 'Renaud Gagné'
