@@ -1,25 +1,28 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "lee.so"
-+++
+---
+title: 'Why Best Landscaping Websites?'
+description: "Why are we sharing all our trade secrets and building 'Best Landscaping Websites'? Here's why..."
+button: 'About us'
+weight: 2
+comments: false
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Trade Secrets For Landscapers Only
 
-Hugo makes use of a variety of open source projects including:
+Howdy!
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+I'm Renaud Gagné, the CTO and Co-Founder of Supersonic Sites. Our team has been building websites for over a decade, and we have decided to launch "Best Landscaping Websites" by [Supersonic](https://www.supersonicsites.com). 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Each niche is different and has it's own kirks. 99% of web designers are generalists. They will do their best base on their general knowledge. But to get results above average, you need specialized knowledge.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+We are building a growth toolkit, working closely with our current clients who are landscaping business owners. This blog documents our findings and what we have seen work and not work.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Why did we move away from the marketing agency model? Well, because the model is fundamentally broken. 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Either:
+
+- **A.** You hire an agency, and they suck. You waste time and money.
+- **B.** You hire an agency, and they are amazing. Bad news: they now OWN your marketing and client acquisition. You can't live without them.
+
+There is a better way. A way in which we build the best landscaping website money can buy and give you all the tools and means to generate your leads with it. If the website piece is done right, all you need to know is how to run ads using postcards, Facebook/Instagram Ads, etc. We'll even provide the templates and the courses on how to do it. *It's a lot easier then peeople think.*
+
+Is it ready yet? Nope. But we'll share the results of our testing and experiment as we go. Whether or not you decide to let us build your website, we are here to share the secret sauce with you. 

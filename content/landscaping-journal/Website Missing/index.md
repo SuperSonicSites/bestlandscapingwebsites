@@ -8,7 +8,10 @@ tags = [
 ]
 +++
 
-Do you have a landscaping website that feels like it's not doing as good of a job as it should? If that's the case, you are in the right place. This article aims to give you clear steps to improve your landscaping website and stand above the competition. The following content is the distillation of decades of experience and our team surveying hundreds of landscaping websites. We know what works and what doesn't.
+Do you have a landscaping website that feels like it's not doing as good of a job as it should? If that's the case, you are in the right place. This article aims to give you clear steps to improve your landscaping website and stand above the competition. 
+
+The following content is the distillation of decades of experience and our team surveying hundreds of landscaping websites. We know what works and what doesn't.
+
 Go through these 3 things and let us know if you've hit all of those points already. We would love to look at your website and feature it on our next blog. 😀
 
 **Note:** We are not expecting you to implement the strategies below on your own; ideally, you have a good web person on your team who can do so. You have a business to run, after all!
@@ -33,19 +36,21 @@ If you just got started, it might be what you need. But if you want to get serio
 
 ### Start With Service Pages
 
-Do you offer more than a single service? Good! Why not have a page for each where you show your prices, have Frequently Asked Questions, show service-specific testimonials and show off your masterpieces? Those pages can serve in two ways. One, they will give more in-depth information to your prospects, and second, they can rank in your local market for your prospects.
+Do you offer more than a single service? Good! Why not have a page for each where you show your prices, have Frequently Asked Questions, show service-specific testimonials and show off your masterpieces? Those pages can serve in two ways. One, they will give more in-depth information to your prospects, and second, they can rank in your local market for your services.
 
 ### Then Have Location Pages
 
 Do you have a page for each location you are serving? If not, you are missing out on a huge opportunity. When people go to Google, how do they start their search? What do you think they type?
 
-They type in something like "landscaper in {Location}" like "Landscaping company in Toronto" or "Toronto Landscaper." If you do not have a page people can land on which specifically speaks to that market, it's a big missed opportunity.
+They type in something like "landscaper in {Location}", "Landscaping company in Toronto" or "Toronto Landscaper." If you do not have a page people can land on which specifically speaks to that market, it's a big missed opportunity.
 
 **Bonus Tips**: Have each location page have links to your services. Google will love you for it.
 
 ### Finally, Build Your Portfolio
 
-This is where so many drop the ball. You build a fantastic deck or patio and transform a yard…and your website doesn't show and tell about your amazing service. Also, from a "getting more eyeballs" perspective, your portfolio can bolster all your other pages. Suppose you have a good web designer by your side. In that case, he will make it so that each service page will display the portfolio pages related to the services, that the location pages display the portfolio from that location and finally, that the portfolio page boosts the ranking of your service pages AND location page.
+This is where so many drop the ball. You build a fantastic deck or patio and transform a yard…and your website doesn't show and tell about your amazing service. 😮  
+
+From a "getting more eyeballs" perspective, your portfolio can bolster all your other pages. Suppose you have a good web designer by your side, he/she will make it so that each service page will display the portfolio pages related to the services, that the location pages display the portfolio from that location and finally, that the portfolio page boosts the ranking of your service pages AND location pages.
 
 Here is a graph to help see the relationships between pages.
 
@@ -79,7 +84,7 @@ Not only that, your developer can add a widget that displays all of your 5-star 
 
 There is much more to making your landscaping website the best it can be. But the above will put you in a different category, bringing you more eyeballs and clients than your competition.
 
-Leave a comment, leave a link to your site for us to review, and let us know if you would like us to complete a site audit (we do it for free).
+To your continued success.
 
 Cheers!
 
