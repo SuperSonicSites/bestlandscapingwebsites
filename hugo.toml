@@ -47,9 +47,8 @@ theme = "paper"
     weight = 10
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+
+disableKinds = ['series', 'tags']
 
 [privacy]
 
