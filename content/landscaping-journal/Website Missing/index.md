@@ -1,12 +1,13 @@
 +++
 author = "Renaud Gagné"
-title = "3 Things Landscaping Websites Are Missing"
+title = "3 Things Most Landscaping Websites Are Missing"
 date = "2024-05-31"
-description = "Improving Your Landscaping Website"
+description = "Discover 3 things most landscaping websites are missing and what you can do to stand above the competition."
 tags = [
     "website",
 ]
 +++
+![Drawing of websites](featured.jpg "What Is Missing On Most Landscaping Websites")
 
 Do you have a landscaping website that feels like it's not doing as good of a job as it should? If that's the case, you are in the right place. This article aims to give you clear steps to improve your landscaping website and stand above the competition. 
 
