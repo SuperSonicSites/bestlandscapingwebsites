@@ -87,6 +87,3 @@ There is much more to making your landscaping website the best it can be. But th
 To your continued success.
 
 Cheers!
-
-PS: Subscribe For More!
-

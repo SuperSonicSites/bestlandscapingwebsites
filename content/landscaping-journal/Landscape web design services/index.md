@@ -94,5 +94,3 @@ To your continued success.
 
 Cheers!
 
-PS: Subscribe For More!
-
