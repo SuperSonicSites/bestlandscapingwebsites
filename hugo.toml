@@ -16,13 +16,11 @@ theme = "paper"
 [params]
   color = 'linen'
 
-  twitter = 'SupersonicSites'
-  facebook = 'SupersonicSites'
-  instagram = 'Supersonic_Sites'
+  facebook = 'https://www.facebook.com/profile.php?id=61560651711424'
+  
 
-  avatar = 'renaud@supersonicsites.com'
-  name = 'Renaud Gagné'
-  bio = 'Documenting The Journey'
+  name = 'We Build The Best Landscaping Websites. Period.'
+  bio = 'Helping Landscapers Attract More Clients'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)

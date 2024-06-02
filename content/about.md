@@ -2,7 +2,7 @@
 title: 'Why Best Landscaping Websites?'
 description: "Why are we sharing all our trade secrets and building 'Best Landscaping Websites'? Here's why..."
 button: 'About us'
-weight: 2
+weight: 5
 comments: false
 ---
 
