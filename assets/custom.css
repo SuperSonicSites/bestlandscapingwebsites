@@ -1,0 +1,87 @@
+html {
+    scroll-behavior: smooth;
+  }
+/* Free Audit Form */
+form {
+    width: 100%;
+    margin: 0 auto;
+    padding: 2rem 2rem;
+    border-radius: 2px;
+    border: 2px solid #00cc33;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: transparent;
+}
+form label {
+    font-size: 0.95rem;
+}
+
+form input[type="text"],
+form input[type="email"] {
+    width: 100%;
+    padding: 0.45rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    transition: border-color 0.3s;
+}
+
+form input[type="text"]:focus,
+form input[type="email"]:focus {
+    border-color: #00cc33;
+    outline: none;
+}
+
+form button {
+    width: 100%;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #00cc33 !important;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #04a12b !important;
+}
+/* CTA */
+.cta {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1rem 2rem 2rem 2rem;
+    border-radius: 2px;
+    border: 2px solid #00cc33;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+} 
+.cta p {
+    margin-top: 0.5rem;
+}
+.heading-size-2 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.button {
+    width: 100%;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #00cc33 !important;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #04a12b !important;
+}

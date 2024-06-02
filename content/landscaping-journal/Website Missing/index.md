@@ -34,6 +34,8 @@ You would be surprised how many landscaper websites we have looked at only have 
 
 If you just got started, it might be what you need. But if you want to get serious traction with it, you need more pages.
 
+{{< cta >}}
+
 ### Start With Service Pages
 
 Do you offer more than a single service? Good! Why not have a page for each where you show your prices, have Frequently Asked Questions, show service-specific testimonials and show off your masterpieces? Those pages can serve in two ways. One, they will give more in-depth information to your prospects, and second, they can rank in your local market for your services.
