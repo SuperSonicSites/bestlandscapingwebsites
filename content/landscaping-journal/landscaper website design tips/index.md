@@ -9,13 +9,13 @@ description = "Learn 7 simple landscaper website design tips to attract more lea
 
 Do you want more clients for your landscaping business? A great website can help! With the right tips, your site can stand out and bring in more leads. This article will share 7 simple landscaper website design tips to get more leads and grow your business.
 
-With over a decade in web design, we've seen trends and fad. We've personally spent millions of dollars in advertising through our client's websites and we know what works and what doesn't. 
+With over a decade in web design, we've seen trends and fads. We've personally spent millions of dollars in advertising through our client's websites and we know what works and what doesn't. 
 
 Consider what you are about to read a distillation of a decade of experience into a few words. Bottomline, we’ve looked at hundreds of landscaping sites and know what works and what doesn’t. 
 
 These tips are easy to follow and will make a big difference if you have a good web designer in your team who can implement them.
 
-Ready to make your website awesome? Let’s dive in
+Ready to make your website awesome? Let’s dive in!
 
 ## Hire a Professional Specialized in Landscaping Web Design
 ![Papercraft local landscaper hiring a web designer by shaking hands](hire.webp "Hiring the best landscaping web design services")
@@ -45,7 +45,7 @@ Next landscaper website design tips is about thinking about your website from th
 
 Gary Halbert, a legendary copywriter, taught an invaluable lesson: 
 
-> If you were on a desert island and had to send one last letter, you had to make sure the person who received it would open it and then take action to save you? How would you package that message and what would you write?
+> If you were on a desert island and had to send one last letter, you had to make sure the person who received it would open it and then take action to save you...how would you package that message and what would you write?
 
 You are not on a desert island, but imagine that you just paid $5 for someone to see your website. What would you include to make the most of that visit? Imagine you have only one chance to capture your visitor's attention and get them to act.
 
@@ -84,16 +84,15 @@ If you use tools like [Jobber](https://getjobber.com/) or [Calendly](https://cal
 ### Benefits of a Scheduler on the Thank You page
 Using a scheduler has many benefits:
 
-- Saves Time: No more back-and-forth emails to set up a meeting.
-- Professional: It makes your business look more organized and professional.
-- Better Lead Conversion: When clients can easily book a time, they are more likely to follow through. This turns more leads into actual sales.
+- **Saves Time**: No more back-and-forth emails to set up a meeting.
+- **Professional**: It makes your business look more organized and professional.
+- **Better Lead Conversion**: When clients can easily book a time, they are more likely to follow through. This turns more leads into actual sales.
 
 ### Introduce an "Unlockable"
 **Here's a cool idea:** Offer an "unlockable" bonus for booking now. For example, if they schedule a visit or call right after filling out the form, they could get a special discount or a free lawn care tip guide. This gives them an extra reason to act quickly.
 
-By including a Thank You page with a scheduler, you make it easier for clients to connect with you and boost your chances of turning leads into sales. Plus, offering an "unlockable" bonus can encourage more people to book right away.
-
 ## Optimize for Fast Loading Speeds
+![Papercraft image of a website loading quickly on a mobile device](speed.webp "Landscaping Web Design Tips - Page speed")
 One key landscaper website design tip is to make sure your site loads quickly. Why? Because a slow website can make you lose potential clients. [Studies show](https://www.portent.com/blog/analytics/research-site-speed-hurting-everyones-revenue.htm) that a site that loads in 1 second has a much higher conversion rate than one that takes 5 seconds. In fact, websites that load in 1 second can get up to 5 times more leads than slower sites.
 
 ### Why Speed Matters
