@@ -19,8 +19,8 @@ theme = "paper"
   facebook = 'https://www.facebook.com/profile.php?id=61560651711424'
   
 
-  name = 'We Build The Best Landscaping Websites. Period.'
-  bio = 'Helping Landscapers Attract More Clients'
+  name = 'Best Landscaping Websites'
+  bio = 'Turn Your Landscaping Website into a Lead Generation Powerhouse with Expert Insights, Case Studies, and Portfolios'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
