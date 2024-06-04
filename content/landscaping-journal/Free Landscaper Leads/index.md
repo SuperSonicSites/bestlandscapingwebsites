@@ -3,6 +3,7 @@ author = "Renaud Gagné"
 title = "3 Proven Methods to Get Free Landscaping Leads"
 featured = "freelandscapingleads.webp"
 url = "/landscaping-journal/free-landscaping-leads"
+toc = true
 date = "2024-06-04"
 description = "Learn how to get free landscaping leads near you and attract more clients with these 3 proven methods."
 +++

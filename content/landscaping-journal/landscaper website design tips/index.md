@@ -3,6 +3,7 @@ author = "Renaud Gagné"
 title = "7 Landscaper Website Design Tips To Get More Leads"
 featured = "featured.webp"
 url = "/landscaping-journal/landscaper-website-design-tips"
+toc = true
 date = "2024-06-03"
 description = "Learn 7 simple landscaper website design tips to attract more leads and grow your business."
 +++

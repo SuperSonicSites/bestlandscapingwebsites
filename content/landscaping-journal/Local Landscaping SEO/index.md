@@ -3,6 +3,7 @@ author = "Renaud Gagné"
 title = "Getting Leads For Landscaping Through Local SEO...It WORKS!"
 date = "2024-06-01"
 featured = "landscaping_local_seo.jpg"
+toc = true
 description = "Boost your landscaping business with local SEO! Learn practical steps to improve local visibility, attract targeted traffic, and convert visitors into clients."
 +++
 
