@@ -1,0 +1,43 @@
+<div class="highlight-box">
+  <h2 class="heading-size-2">{{ .Get "title" }}</h2>
+  <p>{{ .Inner }}</p>
+  {{ if .IsNamedParams }}
+      {{ with .Get "source" }}
+          <p class="source"><a href="{{ . }}" target="_blank">Source</a></p>
+      {{ end }}
+  {{ end }}
+</div>
+
+<style>
+  /* CTA */
+.highlight-box {
+    width: 100%;
+    margin: 0 auto;
+    padding: 1rem 2rem 0rem 2rem;
+    border-radius: 2px;
+    border: 2px solid #04a12b;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+} 
+.highlight-box p {
+    margin-top: 0.5rem;
+    color: var(--p)
+}
+.highlight-box .heading-size-2 {
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.highlight-box .source {
+        font-size: 0.9em;
+        color: #555;
+    }
+    .highlight-box .source a {
+        color: #04a12b;
+        text-decoration: none;
+    }
+    .highlight-box .source a:hover {
+        text-decoration: underline;
+    }
+</style>
+

@@ -1,11 +1,11 @@
 +++
 author = "Renaud Gagné"
 title = "7 Landscaper Website Design Tips To Get More Leads"
+featured = "featured.webp"
 url = "/landscaping-journal/landscaper-website-design-tips"
 date = "2024-06-03"
 description = "Learn 7 simple landscaper website design tips to attract more leads and grow your business."
 +++
-![Landscape in a screen representing landscaper web design tips](featured.webp "Landscaper Web Design Tips")
 
 Do you want more clients for your landscaping business? A great website can help! With the right tips, your site can stand out and bring in more leads. This article will share 7 simple landscaper website design tips to get more leads and grow your business.
 
@@ -37,7 +37,7 @@ Putting your offer and lead capture above the fold is crucial because most peopl
 
 This simple change can significantly increase your website's lead generation. When people see a great offer right away, they are more likely to contact you. This helps you get more clients and grow your business.
 
-{{< cta >}}
+
 
 ## Design With Advertising in Mind
 

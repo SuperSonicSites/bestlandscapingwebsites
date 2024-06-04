@@ -18,10 +18,20 @@
     </div>
     {{ end }}
   </header>
-
-  <section>{{ .Content }}
-  
+  {{ if .Params.featured }}
+  <section>
+      <img src="{{ .Params.featured }}" alt="{{ .Title }}" class="featured-image">
   </section>
+  {{ end }}
+  <section style="padding: 1rem 2rem; border: 1px solid grey">
+    <strong class="">Table Of Content</strong>
+    {{ .TableOfContents }}
+</section>
+  <article>
+    
+    {{ .Content }}
+  
+  </article>
   <div>
     {{ partial "zohoform.html" . }}
   </div>

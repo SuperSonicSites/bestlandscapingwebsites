@@ -2,11 +2,11 @@
 author = "Renaud Gagné"
 title = "Level Up Your Landscaping Websites In 3 Easy Steps"
 url = "/landscaping-journal/level-up-landscaping-website"
+featured = "featured.jpg"
 date = "2024-05-31"
 description = "Discover 3 things most landscaping websites are missing and what you can do to stand above the competition."
 categories = ['Website Architecture']
 +++
-![Drawing of websites](featured.jpg "What Is Missing On Most Landscaping Websites")
 
 Do you have a landscaping website that feels like it's not doing as good of a job as it should? If that's the case, you are in the right place. This article aims to give you clear steps to improve your landscaping website and stand above the competition. 
 

@@ -1,11 +1,11 @@
 +++
 author = "Renaud Gagné"
 title = "How to Hire the Right Landscaping Web Design Service"
+featured = "featured.webp"
 url = "/landscaping-journal/hire-landscaping-web-design-service"
 date = "2024-06-02"
 description = "Learn how to hire top landscaping web design services to boost build your website right."
 +++
-![Papercraft local landscaper hiring a web designer by shaking hands](featured.webp "Hiring landscaping web design services")
 
 Is your landscaping business not getting enough attention online? Finding the right landscaping web design agency can change everything. But choosing the wrong one can be a disaster. This guide will help you pick the best agency, so your website can bring in more clients and show off your great work.
 
